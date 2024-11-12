@@ -1,5 +1,6 @@
-
 # 🌸 Iris Flower Classification with KNN & SVM 🌸
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmedMT3/KNN-SVM-Classifiers/blob/main/KNN_%26_SVM_Classification.ipynb)
 
 This project demonstrates **K-Nearest Neighbors (KNN)** and **Support Vector Machine (SVM)** for classifying iris flowers 🌺 into three species: **Setosa**, **Versicolor**, and **Virginica**. A great way to dive into the basics of classification and explore algorithm comparison!
 
