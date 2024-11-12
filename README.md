@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification with KNN & SVM 🌸
+# 🌸 Iris Flower Classification with KNN & SVM
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmedMT3/KNN-SVM-Classifiers/blob/main/KNN_%26_SVM_Classification.ipynb)
 
